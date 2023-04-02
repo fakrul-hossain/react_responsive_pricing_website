@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "features": [
+        "Off-peak access",
+        "Cardio equipment",
+        "Strength equipment"
+      ],
+      "prices": 29.99,
+      "imageUrl": "https://source.unsplash.com/random/400x400"
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "features": [
+        "Full access",
+        "Cardio equipment",
+        "Strength equipment"
+      ],
+      "prices": 49.99,
+      "imageUrl": "https://source.unsplash.com/random/400x400"
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "features": [
+        "Full access + Classes",
+        "Cardio equipment + Strength",
+        "Personal training"
+      ],
+      "prices": 99.99,
+      "imageUrl": "https://source.unsplash.com/random/400x400"
+    }
+  ]
+  
